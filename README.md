@@ -1,2 +1,2 @@
 # tencomp
-A simple inference engine for image generation model.s
+A simple inference engine for image generation models.
